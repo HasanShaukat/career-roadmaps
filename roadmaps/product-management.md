@@ -5,6 +5,9 @@ Next, you work with builders (the engineers and designers) to make the playgroun
 Finally, when the playground is ready, you watch how the kids play. If they don't like something or have new ideas, you tweak it to make it even better.  
 So, a Product Manager is like a big-picture guide. They listen, plan, and make sure everything works together so the "playground" (product) is awesome for everyone.
 
+### Future Scope
+[Reddit Discussion: What is the future of product management? , where it's going to be](https://www.reddit.com/r/ProductManagement/comments/1dr7hvs/what_is_the_future_of_product_management_where/)
+
 ### Courses
 * [Coursera Google Project Management Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 * [Coursera Agile Development Specialization](https://www.coursera.org/specializations/agile-development)
