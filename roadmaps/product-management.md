@@ -9,3 +9,15 @@ So, a Product Manager is like a big-picture guide. They listen, plan, and make s
 * [Coursera Google Project Management Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 * [Coursera Agile Development Specialization](https://www.coursera.org/specializations/agile-development)
 * [Coursera Scrum Master Certification Specialization](https://www.coursera.org/specializations/learnquest-certified-scrum-master)
+* [Coursera Agile with Atlassian Jira Course](https://www.coursera.org/learn/agile-atlassian-jira)
+* [YouTube Figma Crash Course](https://www.youtube.com/watch?v=BOt3MNB71gI)
+
+### Projects
+* [Coursera: Build a Product Roadmap with Aha!](https://www.coursera.org/projects/build-product-roadmap-aha)
+* [Coursera: Agile Project: Product Prototype Touchpoint Analysis in Miro](https://www.coursera.org/projects/agile-prototype-analysis-miro)
+* [Coursera: Build a Product Management Plan Framework in Trello](https://www.coursera.org/projects/build-product-management-plan-framework-trello)
+
+### Jobs Sites
+* [Remote.co](https://remote.co/remote-jobs/search?categories=35&remoteoptions=100%25%20Remote%20Work&joblocations=hoa&loc.latlng=0%2C0&loc.radius=30&anywhereinus=0&searchkeyword=Product%20manager&useclocation=true&sortbyposteddate=true&page=1)
+* [We Work Remotely](https://weworkremotely.com/categories/remote-product-jobs)
+* [Jobspresso](https://jobspresso.co/remote-product-management-jobs/) (Type in the Location field "Worldwide")
