@@ -3,5 +3,5 @@ Welcome to the career roadmaps repository. Here you will find a detailed plan to
 
 After going through these roadmaps, you will be able to apply to entry level-jobs in the respective fields. Once you start working at an entry level job, you'll get practical exposure of that field, and you can easily discover your ongoing learning trajectory from famous online course websites like Coursera, Udemy and the like.
 
-**[Product Manager](roadmaps/product-management.md)**
-**[Data Analyst](roadmaps/data-analysis.md)**
+* **[Product Manager](roadmaps/product-management.md)**  
+* **[Data Analyst](roadmaps/data-analysis.md)**
