@@ -5,3 +5,4 @@ After going through these roadmaps, you will be able to apply to entry level-job
 
 * **[Product Manager](roadmaps/product-management.md)**  
 * **[Data Analyst](roadmaps/data-analysis.md)**
+* **[Digital Marketing - Google Ads](roadmaps/digital-marketing-google-ads.md)**
