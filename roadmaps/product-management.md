@@ -21,7 +21,8 @@ So, a Product Manager is like a big-picture guide. They listen, plan, and make s
 * [Coursera: Build a Product Management Plan Framework in Trello](https://www.coursera.org/projects/build-product-management-plan-framework-trello)
 
 ### Remote Jobs Sites
-* [Remote.co](https://remote.co/remote-jobs/search?categories=35&remoteoptions=100%25%20Remote%20Work&joblocations=hoa&loc.latlng=0%2C0&loc.radius=30&anywhereinus=0&searchkeyword=Product%20manager&useclocation=true&sortbyposteddate=true&page=1)
+* [Remote.co](https://remote.co/remote-jobs/product-manager/) (Enter your country's name in the Location field)
 * [We Work Remotely](https://weworkremotely.com/categories/remote-product-jobs)
 * [Jobspresso](https://jobspresso.co/remote-product-management-jobs/) (Type in the Location field "Worldwide")
-* [Working Nomads](https://www.workingnomads.com/jobs?category=management&location=anywhere,pakistan)
+* [Working Nomads](https://www.workingnomads.com/jobs?category=management) (Enter your country in the Location field
+* [Wellfound](https://wellfound.com/role/r/product-manager)
