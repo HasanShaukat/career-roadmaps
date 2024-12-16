@@ -17,5 +17,5 @@ In the end, the data analyst helps people make better decisions. It’s like hel
 
 ### Remote Jobs Sites
 * [Remote.co](https://remote.co/remote-jobs/data-science/) (Enter your country in the Location field)
-* [Working Nomads](https://www.workingnomads.com/jobs?location=pakistan&tag=data-analyst&sort=date)
-* [Wellfound](https://wellfound.com/role/data-analyst)
+* [Working Nomads](https://www.workingnomads.com/jobs?tag=data-analyst) (Enter your country in the Location field)
+* [Wellfound](https://wellfound.com/role/r/data-analyst)
