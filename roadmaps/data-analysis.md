@@ -6,19 +6,9 @@ In the end, the data analyst helps people make better decisions. It’s like hel
 ### Future Scope
 [Reddit Discussion: Is Career in Data Analytics still feasible or the industry is already overwhelmed with data analysts](https://www.reddit.com/r/PowerBI/comments/1aotbqn/is_career_in_data_analytics_still_feasible_or_the/)
 
-### Courses
-* [Coursera Google Data Analyst Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-* [Coursera Advanced Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
-* [Coursera Cloud Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-cloud-data-analytics-certificate)
-* [Coursera Microsoft PowerBI Data Analyst Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
-* [Coursera Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)
 
-### Update LinkedIn and Resume
 
-### Remote Jobs Sites
-* [Remote.co](https://remote.co/remote-jobs/data-science/) (Enter your country in the Location field)
-* [Working Nomads](https://www.workingnomads.com/jobs?tag=data-analyst) (Enter your country in the Location field)
-* [Wellfound](https://wellfound.com/role/r/data-analyst)
+
 
 # Path 2
 
@@ -67,4 +57,19 @@ In the end, the data analyst helps people make better decisions. It’s like hel
 |---|---|
 | [OpenAI API](https://www.youtube.com/watch?v=mnJJPltybBM) |  |
 | [Ollama](https://www.youtube.com/watch?v=GWB9ApTPTv4) |  |
-  
+
+### Update LinkedIn and Resume
+
+### Remote Jobs Sites
+* [Remote.co](https://remote.co/remote-jobs/data-science/) (Enter your country in the Location field)
+* [Working Nomads](https://www.workingnomads.com/jobs?tag=data-analyst) (Enter your country in the Location field)
+* [Wellfound](https://wellfound.com/role/r/data-analyst)
+
+
+# Archive
+### Courses
+* [Coursera Google Data Analyst Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+* [Coursera Advanced Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+* [Coursera Cloud Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-cloud-data-analytics-certificate)
+* [Coursera Microsoft PowerBI Data Analyst Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
+* [Coursera Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)
