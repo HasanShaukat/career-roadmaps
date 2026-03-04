@@ -24,33 +24,33 @@ In the end, the data analyst helps people make better decisions. It’s like hel
 Lesson	Link	Comments
 		
 Baseline		
-Online Database (db-fiddle)	https://www.youtube.com/watch?v=PvGP4vS9nSI 	
-SQL	https://www.youtube.com/watch?v=7mz73uXD9DA&t=223s 	Instead of using Postgres (or any other database), just use https://www.db-fiddle.com/ , no setup needed
-Python for data analysis	https://www.youtube.com/watch?v=WcDaZ67TVRo 	
-Excel files in pandas	https://www.geeksforgeeks.org/python/working-with-excel-files-using-pandas/ 	
-Group by and aggregations	https://www.youtube.com/watch?v=VRmXto2YA2I 	
-Matplotlib	https://www.youtube.com/watch?v=OZOOLe2imFo 	
-Seaborn	https://www.youtube.com/watch?v=ooqXQ37XHMM 	Seaborn is more aesthetic than matplotlib
-Plotly	https://www.youtube.com/watch?v=GzUVacnrgFc 	Plotly has interactive visuals
-Databricks Fundamentals	https://customer-academy.databricks.com/learn/learning-plans/215/databricks-fundamentals-learning-plan 	
-Databricks Data Analyst Learning Path	https://customer-academy.databricks.com/learn/learning-plans/78/data-analyst-learning-plan 	
+Online Database (db-fiddle)	https://www.youtube.com/watch?v=PvGP4vS9nSI 	  
+SQL	https://www.youtube.com/watch?v=7mz73uXD9DA&t=223s 	Instead of using Postgres (or any other database), just use https://www.db-fiddle.com/ , no setup needed  
+Python for data analysis	https://www.youtube.com/watch?v=WcDaZ67TVRo 	  
+Excel files in pandas	https://www.geeksforgeeks.org/python/working-with-excel-files-using-pandas/ 	  
+Group by and aggregations	https://www.youtube.com/watch?v=VRmXto2YA2I 	  
+Matplotlib	https://www.youtube.com/watch?v=OZOOLe2imFo 	  
+Seaborn	https://www.youtube.com/watch?v=ooqXQ37XHMM 	Seaborn is more aesthetic than matplotlib  
+Plotly	https://www.youtube.com/watch?v=GzUVacnrgFc 	Plotly has interactive visuals  
+Databricks Fundamentals	https://customer-academy.databricks.com/learn/learning-plans/215/databricks-fundamentals-learning-plan 	  
+Databricks Data Analyst Learning Path	https://customer-academy.databricks.com/learn/learning-plans/78/data-analyst-learning-plan 	  
 Take the Databricks Data Analyst Certification Exam		
 		
 		
 Specializations		
 Deep Dive Analysis Track		
-Scikit Learn	https://www.youtube.com/watch?v=SIEaLBXr0rk 	
-Installing VS Code	https://www.youtube.com/watch?v=cu_ykIfBprI 	
-Python in VS Code	https://www.youtube.com/watch?v=D2cwvpJSBX4 	
-Streamlit	https://www.youtube.com/watch?v=d7fnzDQ5qM8 	
-Databricks Apps	https://www.youtube.com/watch?v=QTvbcSKEr9E	
+Scikit Learn	https://www.youtube.com/watch?v=SIEaLBXr0rk 	  
+Installing VS Code	https://www.youtube.com/watch?v=cu_ykIfBprI 	  
+Python in VS Code	https://www.youtube.com/watch?v=D2cwvpJSBX4 	  
+Streamlit	https://www.youtube.com/watch?v=d7fnzDQ5qM8 	  
+Databricks Apps	https://www.youtube.com/watch?v=QTvbcSKEr9E	  
 		
 Forecasting Track		
-Facebook Prophet	https://facebook.github.io/prophet/docs/quick_start.html 	Go through this entire documentation, and try this out
-Databricks MMF Framework	https://www.youtube.com/watch?v=wYeuPxtap-8 	
-MMF Code	https://github.com/databricks-industry-solutions/many-model-forecasting 	
+Facebook Prophet	https://facebook.github.io/prophet/docs/quick_start.html 	Go through this entire documentation, and try this out  
+Databricks MMF Framework	https://www.youtube.com/watch?v=wYeuPxtap-8 	  
+MMF Code	https://github.com/databricks-industry-solutions/many-model-forecasting 	  
 		
 LLMs track		
-OpenAI API	https://www.youtube.com/watch?v=mnJJPltybBM
-Ollama	https://www.youtube.com/watch?v=GWB9ApTPTv4
-
+OpenAI API	https://www.youtube.com/watch?v=mnJJPltybBM  
+Ollama	https://www.youtube.com/watch?v=GWB9ApTPTv4  
+  
