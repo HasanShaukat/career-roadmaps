@@ -66,7 +66,7 @@ In the end, the data analyst helps people make better decisions. It’s like hel
 * [Wellfound](https://wellfound.com/role/r/data-analyst)
 
 
-# Archive
+# Archive (Old - don't use the below ones if you're following the above plan)
 ### Courses
 * [Coursera Google Data Analyst Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 * [Coursera Advanced Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
